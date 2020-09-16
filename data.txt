@@ -1,0 +1,3 @@
+Name: Vic Nash
+Age: 35
+Favorite color: Green
